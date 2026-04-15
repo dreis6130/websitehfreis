@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 HF Reis - Soluções em Organização de Documentos 📂
 Este projeto é um website institucional desenvolvido para a disciplina de Aplicações Web do curso de Ciência da Computação na Universidade Veiga de Almeida (UVA). O objetivo é apresentar os serviços de encadernação, digitalização e indexação de documentos para cartórios e empresas.
@@ -37,3 +38,7 @@ Sérgio Martins Filho
 Matrícula: 1260113285
 
 Curso: Ciência da Computação - UVA
+=======
+# websitehfreis
+site da empresa de encadernação digitalização e indexação
+>>>>>>> 7aad949aece1fe4d2ee3978cca1e1c92f6cf6763
